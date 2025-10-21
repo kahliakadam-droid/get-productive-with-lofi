@@ -1,4 +1,4 @@
-# get-productive-with-lofi
+# Get Productive with Lofi
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
