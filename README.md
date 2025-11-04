@@ -1,17 +1,28 @@
 # Get Productive with Lofi
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Overview](#overview)
+* [Features](#features)
+* [Tools & Environment](#tools--environment)
+* [How to run](#how-to-run)
+* [Credits & References](#credits--references)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
+## Overview
+Two original lo-fi musical compositions coded in TunePad using Python, using code to enhance focus and productivity through music.
 	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Features
+* Tempo and melody was coded to create calm and productive sounds
+* Layered audio tracks (keyboard, guitar, bass, pad and drums)
+* Loops were used to create and control the melodies and the structure of the songs
+* Used variables like "lofidrums" to define the chord progressions
 	
-## Setup
+## Tools & Environment
+* TunePad (Python as its main language)
+* TunePad Tutorials - used them as references for code on how to create progressions, loops, velocity, drums
+* Youtube Lo-fi guide videos - guided me in figuring out what tempos to use, what specific sounds are used in lo-fi compositions and inspiration
+
+
+## How to run
+1. 
+
+## Credits & References
 This project is simple Lorem ipsum dolor generator.
