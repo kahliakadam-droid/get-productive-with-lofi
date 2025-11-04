@@ -32,4 +32,17 @@ Two original lo-fi musical compositions coded in TunePad using Python, using cod
 6. Once it loads click the play icon at the top right of the interface to play the song 
 
 ## Credits & References
-This project is simple Lorem ipsum dolor generator.
+* Dsouza, M. P., Shetty, A., D’Souza, S. E., Buthello, E., & Gudi, N. (2025). Vibing the Young Consumer to Wellness: Exploring LoFi Music Consumption Through the Positive Design Lens. Sage Open, 15(1). ProQuest Central; ProQuest One Education; Publicly Available Content Database. https://doi.org/10.1177/21582440251318806
+* [TunePad Tunetorials. (2022, March 23). Playboy Carti’s “Dropped Out” Tunetorial by Tanay. YouTube.](https://www.youtube.com/watch?v=SUmBIqHINOQ)
+* [Zectro. (2022, January 22). A Guide to Making Lo-fi. Www.youtube.com.](https://www.youtube.com/watch?v=APljvOxetas)
+* [Loop Guide](https://tunepad.com/project/15508)
+* Learn TunePad - TunePad Song Tutorials 
+  1) [Layering Audio with tracks](https://learn.tunepad.com/tutorials/tracks/)
+  2) [Bad Bunny Remix](https://learn.tunepad.com/tutorials/bad-bunny/)
+  3) [Chicago House Beat](https://learn.tunepad.com/tutorials/chicago-house/)
+     
+
+
+
+
+
