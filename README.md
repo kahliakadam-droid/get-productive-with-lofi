@@ -22,7 +22,7 @@ Two original lo-fi musical compositions coded in TunePad using Python, using cod
 
 
 ## How to run
-1. Download 
+1. Download the two files from this repository 
 2.  Go to TunePad or click the link here [TunePad](https://tunepad.com)
 3. Log in and go to "My Tunes"
 4. Click "Import"
