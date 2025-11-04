@@ -24,11 +24,12 @@ Two original lo-fi musical compositions coded in TunePad using Python, using cod
 ## How to run
 1. Download the two files from this repository
 - tunepad_project_115903 GET PRODUCTIVE WITH LOFI 1 .json
-- 
+- tunepad_project_117345 GET PRODUCTIVE WITH LOFI 2.json
 2.  Go to TunePad or click the link here [TunePad](https://tunepad.com)
 3. Log in and go to "My Tunes"
 4. Click "Import"
-5. 
+5. Upload the two songs listed above
+6. Once it loads click the play icon at the top right of the interface to play the song 
 
 ## Credits & References
 This project is simple Lorem ipsum dolor generator.
